@@ -1,12 +1,11 @@
-# Chatty, Checky, Prompty (CCP) Algorithm
+# Chatty, Checky, Prompty Algorithm
 
-The CCP Algorithm utilizes three OpenAI GPT models to generate, validate, and improve prompts in a collaborative manner. The algorithm establishes an interactive loop between the three models, with Chatty generating prompts, Checky validating them, and Prompty suggesting improvements.
+The Chatty, Checky, Prompty Algorithm works with three LLM models to generate, validate, and improve prompts in a collaborative manner. The algorithm establishes an interactive loop between the three models, with Chatty generating prompts, Checky validating them, and Prompty suggesting improvements.
 
 ## Dependencies
 
 - `langchain/chat_models`
 - `langchain/schema`
-- `@supabase/auth-helpers-nextjs`
 
 ## Usage
 
