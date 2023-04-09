@@ -20,3 +20,6 @@ http://localhost:3000/chatGAN?=userQuery="I'm singing in the rain, just singing 
 
 
 The model can try to have Chatty either match the user input (use characterMatching) or match the concept that is trying to be produced (use conceptMatching).
+
+
+Disclaimer: this code is sloppy, I just wanted to release it quickly. 
