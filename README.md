@@ -1,6 +1,6 @@
 # Chatty, Checky, Prompty Algorithm
 
-The Chatty, Checky, Prompty Algorithm works with three LLM models to generate, validate, and improve prompts in a collaborative manner. The algorithm establishes an interactive loop between the three models, with Chatty generating prompts, Checky validating them, and Prompty suggesting improvements.
+THIS IS A WIP! It's messy and barebones, but feel free to contribute. The Chatty, Checky, Prompty Algorithm works with three LLM models to generate, validate, and improve prompts in a collaborative manner. The algorithm establishes an interactive loop between the three models, with Chatty generating prompts, Checky validating them, and Prompty suggesting improvements.
 
 ## Dependencies
 
